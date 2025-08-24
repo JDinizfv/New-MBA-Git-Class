@@ -1,2 +1,3 @@
 # New-MBA-Git-Class
-Test
+
+Exercício para solidificar
